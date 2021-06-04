@@ -1,17 +1,9 @@
 log/*
 node_modules/*
-demo.js
-.hg/*
-.sonar/*
 npm-debug.log
 syntax: glob
-.tern-project
-public/public.html
 */*.html
 *.bak
 *tar*
 *.orig
-output/*
-check-block-time.js
-.boostsales.config
 .vscode/*
